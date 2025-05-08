@@ -20,7 +20,7 @@ This is a **practice project** to get started with game development in Godot. Th
 
 ### Level Design Preview
 
-![Level Screenshot 1](.Level1.png)
+![Level Screenshot 1](./Level1.png)
 
 ### Alternate View
 
