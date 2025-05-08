@@ -20,11 +20,11 @@ This is a **practice project** to get started with game development in Godot. Th
 
 ### Level Design Preview
 
-![Level Screenshot 1](./e487633f-7a1c-4f52-a818-44f83eb44900.png)
+![Level Screenshot 1](.Level1.png)
 
 ### Alternate View
 
-![Level Screenshot 2](./f339f031-4d41-4384-b502-9e8495832800.png)
+![Level Screenshot 2](./Level2.png)
 
 ## 🛠 Tools Used
 
